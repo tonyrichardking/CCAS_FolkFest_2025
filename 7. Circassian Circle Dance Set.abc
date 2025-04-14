@@ -1,0 +1,54 @@
+X:1
+T:Musical Priest
+%%score 1 2 3
+L:1/8
+Q:1/4=180
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Melody" snm="Mel"
+V:2 treble transpose=-12 nm="Top Horns" snm="Top H"
+L:1/4
+V:3 bass nm="Bass Horns" snm="Bass H"
+V:1
+|:"Bm""^The Musical Priest" FBBA BABd |"A" cBAf"G" ecBA |"Bm" FBBA BABd |"F#m" cBAF"Bm" B2 BA ::$ %4
+"D" d2 dc dfed |"A" (3cBA eA fAeA |"Bm" dcBc dbaf |"F#m" edcd"Bm" B2 Bc ::$ %8
+"Bm" dB (3BBB bafb |"A" afec"G" Acec |"Bm" dB (3BBB bafb |"F#m" afec"Bm" B2 Bc ::$ %12
+[K:G][M:4/4]"Am""^The Old Copperplate" A3 A cAAe |"Am" aged cAFA |"G" G2 DG BGBd |"Em" gedc BAGB |$ %16
+"Am" A2 EA cAAe |"Am" aged cAGB |"G" ABcd efge |"Em" aged cA A2 ::$ %20
+"Am""^Horns: 2-bar rolling chords; vi → V → I → II progression" ageg a2 eg |"Am" aged cA A2 |"G" gfef g2 ef |"G" gfge dBGB |$ %24
+"C" ageg a2 eg |"C" aged cAGB |"D" ABcd efge |1"D" aged cA A2 :|2 %28
+"D" aged c2 z2 |]$[K:A]"A""^The Boys of Malin" ABcd e2 ce |"D" fedf"E" edcB |"A" ABcd e2 ce | %32
+"D" fdBc"E" d2 cB |$"A" ABcd e2 ce |"D" fedf"E" edcB |"A" ABcd e2 ce | %36
+"D" fdBc"E" defg |]$"A""^Horns: 2-bar rolling chords; I → IV → vi → V progression" aA A2 ce e2 |"A" abag fefg |"D" aA A2 ce e2 | %40
+"D" fdBc defg |$"F#m" aA A2 ce e2 |"F#m" abag fefg |"E" a2 ga faec | %44
+"E" dcBc d2 cB |]:$"A" Aece Aece |"A" Aece"D" d2 cB |"A" Aece Aece | %48
+"D" dcBc"E" d2 cB :| %49
+V:2
+|: z4 | z4 | z4 | z4 ::$ %4
+ z4 | z4 | z4 | z4 ::$ %8
+ z4 | z4 | z4 | z4 ::$ %12
+[K:G][M:4/4] z A/ z/ z A/ z/ | z A/ z/ z A/ z/ | z G/ z/ z G/ z/ | z E/ z/ z E/ z/ |$ %16
+ z A/ z/ z A/ z/ | z A/ z/ z A/ z/ | z G/ z/ z G/ z/ | z E/ z/ z E/ z/ ::$ %20
+!p!!<(! c4 | e4 | B4 | d4!f! |$ %24
+!p!!<(! e4 | g4 | f4 | a4!<)!!f! :| %28
+ a3/2 z/ z2 |]$[K:A]!mf! c z c z | f z g z | c z c z | %32
+ f z G z |$ c z c z | f z g z | c z c z | %36
+ f z G z |]$!mp! c4 | c4 | f4 | %40
+ f4 |$ a4 | a4 | g4 | %44
+ g4 |]:$ A z z2 | A z d z | A z z2 | %48
+ d z E z :| %49
+V:3
+|: z8 | z8 | z8 | z8 ::$ %4
+ z8 | z8 | z8 | z8 ::$ %8
+ z8 | z8 | z8 | z8 ::$ %12
+[K:G][M:4/4] z8 | z8 | z8 | z8 |$ %16
+ z8 | z8 | z8 | z8 ::$ %20
+!p!!<(! A,,8 | A,,8 | G,,8 | G,,8!f! |$ %24
+!p!!<(! C,8 | C,8 | D,8 | D,8!<)!!f! :| %28
+ D,3 z z4 |]$[K:A]!mf! A,,8 | D,4 E,4 | A,,8 | %32
+ D,4 E,,4 |$ A,,8 | D,4 E,4 | A,,8 | %36
+ D,4 E,,4 |]$!mp! A,,8 | A,,8 | D,8 | %40
+ D,8 |$ F,8 | F,8 | E,8 | %44
+ E,8 |]:$ z8 | z8 | z8 | %48
+ z8 :| %49
